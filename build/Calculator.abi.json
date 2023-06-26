@@ -1,0 +1,98 @@
+[
+  {
+    "name": "add",
+    "type": "function",
+    "stateMutability": "view",
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "num1",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "num2",
+        "type": "uint256"
+      }
+    ],
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ]
+  },
+  {
+    "name": "subtract",
+    "type": "function",
+    "stateMutability": "view",
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "num1",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "num2",
+        "type": "uint256"
+      }
+    ],
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ]
+  },
+  {
+    "name": "multiply",
+    "type": "function",
+    "stateMutability": "view",
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "num1",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "num2",
+        "type": "uint256"
+      }
+    ],
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ]
+  },
+  {
+    "name": "divide",
+    "type": "function",
+    "stateMutability": "view",
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "num1",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "num2",
+        "type": "uint256"
+      }
+    ],
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ]
+  }
+]
